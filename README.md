@@ -1,16 +1,81 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Jumiran 👋</h1>
 
-<!--
-**Jumiran15/Jumiran15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Laravel+%7C+PHP;Always+Learning+New+Things" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 Hello and Welcome to My GitHub!
+
+Thank you for visiting my profile 🙌  
+I love building web applications and solving real-world problems.
+
+---
+
+## 🧑‍💻 About Me
+
+- 💻 Backend Developer (Laravel & PHP)
+- 🚀 Currently learning JavaScript & Fullstack
+- 🧠 Passionate about clean code & system design
+- ⚡ Fun fact: Coffee ☕ + Code 💻 = Productivity 🚀
+
+---
+
+## 🛠️ Skills
+
+### 🚀 Languages & Frameworks
+- Laravel
+- PHP
+- JavaScript
+- HTML, CSS
+
+### ⚙️ Tools
+- Git & GitHub
+- VS Code
+- MySQL
+
+---
+
+## 📫 Contact
+
+- 📧 Email: zumiran15@email.com
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jumiran15&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jumiran15&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jumiran15&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jumiran15&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jumiran15/Jumiran15/output/snake.svg" />
+</p>
+
+---
+
+<p align="center">
+  ✨ Thank you for visiting my profile ✨
+</p>
