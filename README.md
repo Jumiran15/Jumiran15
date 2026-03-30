@@ -40,13 +40,10 @@ I love building web applications and solving real-world problems.
 ---
 
 ## 🎯 Hobbies
-
-<p align="center">
-  ♟️ Chess <br>
-  🏓 Table Tennis <br>
-  🎮 Gaming <br>
-  🏃 Jogging
-</p>
+♟️ Chess <br>
+🏓 Table Tennis <br>
+🎮 Gaming <br>
+🏃 Jogging
 
 ---
 
