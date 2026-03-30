@@ -42,9 +42,9 @@ I love building web applications and solving real-world problems.
 ## 🎯 Hobbies
 
 <p align="center">
-  ♟️ Chess &nbsp; | &nbsp;
-  🏓 Table Tennis &nbsp; | &nbsp;
-  🎮 Gaming &nbsp; | &nbsp;
+  ♟️ Chess <br>
+  🏓 Table Tennis <br>
+  🎮 Gaming <br>
   🏃 Jogging
 </p>
 
