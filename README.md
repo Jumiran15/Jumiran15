@@ -15,7 +15,7 @@ I love building web applications and solving real-world problems.
 
 ## 🧑‍💻 About Me
 
-- 💻 Backend Developer (Laravel & PHP)
+- 💻 FullStack Developer (Laravel & PHP)
 - 🚀 Currently learning JavaScript & Fullstack
 - 🧠 Passionate about clean code & system design
 - ⚡ Fun fact: Coffee ☕ + Code 💻 = Productivity 🚀
@@ -25,6 +25,7 @@ I love building web applications and solving real-world problems.
 ## 🛠️ Skills
 
 ### 🚀 Languages & Frameworks
+- Codeigniter
 - Laravel
 - PHP
 - JavaScript
@@ -34,6 +35,7 @@ I love building web applications and solving real-world problems.
 - Git & GitHub
 - VS Code
 - MySQL
+- Sublime
 
 ---
 
