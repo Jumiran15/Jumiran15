@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Jumiran 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Laravel+%7C+PHP;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=FullStack+Developer;Laravel+%7C+PHP;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -36,6 +36,17 @@ I love building web applications and solving real-world problems.
 - VS Code
 - MySQL
 - Sublime
+
+---
+
+## 🎯 Hobbies
+
+<p align="center">
+  ♟️ Chess &nbsp; | &nbsp;
+  🏓 Table Tennis &nbsp; | &nbsp;
+  🎮 Gaming &nbsp; | &nbsp;
+  🏃 Jogging
+</p>
 
 ---
 
